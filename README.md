@@ -15,6 +15,7 @@ This repository is organized into the following notebooks, each addressing a spe
 - **[rq_1.ipynb](rq_1.ipynb)**: **Hypothesis 1: Coding Agent vs. Efficiency**. Analyzes how different coding agents (e.g., Copilot, Devin) compare in terms of PR efficiency.
 - **[rq_2.ipynb](rq_2.ipynb)**: **Hypothesis 2: Reviewer Type vs. Efficiency**. Examines how the reviewer type (human, bot, or hybrid) influences the efficiency of AI-generated pull requests.
 - **[rq_3.ipynb](rq_3.ipynb)**: **Hypothesis 3: Feedback Tone vs. Efficiency**. Investigates how review feedback tone (positive, neutral, negative) impacts PR efficiency.
+- **[supplementary_analysis.ipynb](supplementary_analysis.ipynb)**: **Interaction Effects**. A 3-Way ANOVA analyzing the combined effects of Agent, Reviewer Type, and Sentiment on efficiency.
 - **[experiment.ipynb](experiment.ipynb)**: Initial data exploration and experimental analysis.
 
 ## Getting Started
